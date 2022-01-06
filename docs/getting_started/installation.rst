@@ -59,7 +59,7 @@ in blocks. You have to tell the block bundle about the existence of the admin bl
 
     .. code-block:: yaml
 
-        # config/packages/sonata_admin.yaml
+        # config/packages/sonata_block.yaml
 
         sonata_block:
             blocks:
